@@ -127,6 +127,7 @@ https://www.baidu.com/?code=ZDZgEM
 post请求：
 
 http://localhost:8080/oauth/token
+
 参数名称 | 参数值 | 参数说明
 ---|--- |--- 
 grant_type | authorization_code | 授权类型
@@ -152,6 +153,7 @@ Password | secret | 放在Authorization,客户端的密码
 post请求：
 
 http://localhost:8080/oauth/token
+
 参数名称 | 参数值 | 参数说明
 ---|--- |--- 
 grant_type | password | 授权类型
@@ -175,6 +177,7 @@ Password | qq | 放在Authorization,客户端的密码
 post请求：
 
 http://localhost:8080/oauth/token
+
 参数名称 | 参数值 | 参数说明
 ---|--- |--- 
 grant_type | client_credentials | 授权类型
