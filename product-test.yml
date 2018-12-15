@@ -4,5 +4,5 @@ server:
 env:
   test7
 girl:
-  name: lili
-  age: 18
+  name: tom
+  age: 20
