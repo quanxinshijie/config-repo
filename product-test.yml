@@ -4,5 +4,5 @@ server:
 env:
   test7
 girl:
-  name: jack1
+  name: jack
   age: 25
