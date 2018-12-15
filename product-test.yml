@@ -2,4 +2,4 @@ server:
   port: 8082
 
 env:
-  test3
+  test5
