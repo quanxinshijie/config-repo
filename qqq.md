@@ -45,4 +45,21 @@
 | H5 | https://robot.andedu.net:9010/FindBook/listenBook.html<br/>https://robot.andedu.net:9010/FindBook/bookSeek.html<br/>https://robot.andedu.net:9010/FindBook/bookshelf.html<br/>https://robot.andedu.net:9010/FindBook/listenCollect.html<br/>https://robot.andedu.net:9010/FindBook/bookMake.html |
 
 
+# 有问题的专辑统计
 
+|类别id|类别名|有问题专辑数|
+|:-:|:-:|:-:|
+|1001|国学经典||
+|1002|绘本讲读||
+|1003|儿童故事||
+|1004|儿童歌谣||
+|1005|英语启蒙||
+|1006|英语进阶||
+|1007|教材配套||
+|1008|长篇连载||
+|1009|历史人文||
+|1010|乐器启蒙||
+|1011|性格养成||
+|1012|生活百科||
+
+## 每个类别有问题的专辑名称
